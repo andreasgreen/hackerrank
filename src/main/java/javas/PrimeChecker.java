@@ -1,4 +1,4 @@
-package java;
+package javas;
 
 import java.io.*;
 import java.util.*;
